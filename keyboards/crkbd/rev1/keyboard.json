@@ -1,5 +1,7 @@
 {
     "keyboard_name": "Corne",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
     "usb": {
         "pid": "0x0001",
         "device_version": "0.0.1"

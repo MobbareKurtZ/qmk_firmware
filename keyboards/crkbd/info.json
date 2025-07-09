@@ -12,6 +12,7 @@
         "oled": true,
         "rgblight": false,
         "rgb_matrix": true
+        "vial": true,
     },
     "bootmagic": {
         "matrix": [0, 1]
@@ -130,9 +131,5 @@
     },
     "rgb_matrix": {
         "driver": "ws2812",
-        "max_brightness": 120
     },
-    "rgblight": {
-        "max_brightness": 120
-    }
 }
